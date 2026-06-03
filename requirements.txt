@@ -1,0 +1,11 @@
+arm-mango==1.4.3
+einops==0.8.0
+importlib_metadata==8.4.0
+ipdb==0.13.13
+matplotlib==3.8.4
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+scipy==1.13.0
+torch==2.3.0
+tqdm==4.66.2

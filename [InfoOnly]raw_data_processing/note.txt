@@ -1,0 +1,5 @@
+This folder contains files that transform the raw, unprocessed data into the public MobiVital dataset.
+
+Due to user privacy protection in our IRB protocol, the unprocessed raw sensor data cannot be publicly shared. 
+
+This folder is included for informational purpose only.

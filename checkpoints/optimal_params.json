@@ -1,0 +1,9 @@
+{
+    "batch_size": 64,
+    "epochs": 20,
+    "future_length": 25,
+    "hidden_size": 352,
+    "history_length": 200,
+    "lr": 0.0001,
+    "num_layers": 2
+}
